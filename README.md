@@ -14,6 +14,10 @@ Resources
 * [Dynamic Web TWAIN SDK][2]
 * [Microsoft Azure][3]
 
+Blog
+----
+[How to Upload Scanned Images to Microsoft Azure Using Dynamic Web TWAIN][4]
+
 How to Run:
 -----------
 1. open `QueryAzureSAS.php`, and specify `$accountName = ""; $accountKey = ""; $baseUrl = "";`
@@ -25,3 +29,4 @@ How to Run:
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
 [2]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=WebTWAIN&from=FromDownload
 [3]:https://manage.windowsazure.com/
+[4]:http://www.codepool.biz/cloud/upload-images-to-azure-storage.html
