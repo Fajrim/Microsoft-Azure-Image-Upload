@@ -11,7 +11,7 @@ Screenshots
 Resources
 -----------
 
-* [Dynamic Web TWAIN v10.0.1][2]
+* [Dynamic Web TWAIN 11.1][2]
 * [Microsoft Azure][3]
 
 Blog
@@ -20,13 +20,15 @@ Blog
 
 How to Run:
 -----------
-1. open `QueryAzureSAS.php`, and specify `$accountName = ""; $accountKey = ""; $baseUrl = "";`
-2. deploy the project to your Web server
-3. visit `online_demo_scan.php` in your Web browser
+1. download and instal Dynamic Web TWAIN
+2. copy the Resource folder from the installation directory (like C:\Program Files (x86)\Dynamsoft\Dynamic Web TWAIN SDK 11.1 Trial)
+3. open `QueryAzureSAS.php`, and specify `$accountName = ""; $accountKey = ""; $baseUrl = "";`
+4. deploy the project to your Web server
+5. visit `online_demo_scan.php` in your Web browser
 
 
 
 [1]:http://www.dynamsoft.com/Products/WebTWAIN_Overview.aspx
-[2]:http://www.dynamsoft.com/download/Dynamic%20Web%20TWAIN%2010.0.1%20TRIAL.exe
+[2]:http://www.dynamsoft.com/Downloads/WebTWAIN_Download.aspx
 [3]:https://manage.windowsazure.com/
 [4]:http://www.codepool.biz/cloud/upload-images-to-azure-storage.html
